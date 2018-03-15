@@ -1,3 +1,7 @@
 Hi Teja
+<<<<<<< HEAD
 
 Good morining . Changes done from server
+=======
+Changes done from git
+>>>>>>> changes from local repo
